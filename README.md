@@ -13,3 +13,4 @@ A list of resources on models that describe distributed computing mechanisms and
 
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) Yale Fall 2017
 
+
