@@ -8,6 +8,7 @@ A list of resources on models that describe distributed computing mechanisms and
 * [Topology of the immediate snapshot complexes](https://arxiv.org/abs/1404.5813)
 
 * [Directed algebraic topology models of non-reversible worlds](http://www.dima.unige.it/~grandis/Bk.XXDATXX.pdf)
+* Directed Algebraic Topology and Concurrency, Fajstrup et al., Springer, 2016
 
 # Other
 
