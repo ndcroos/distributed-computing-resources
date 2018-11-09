@@ -16,6 +16,8 @@ A list of resources on models that describe distributed computing mechanisms and
 
 * [Sheaves, Objects, and Distributed Systems](https://core.ac.uk/download/pdf/82703492.pdf)
 
+* [A sheaf-theoretic model of concurrency]
+
 ## Other
 
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) Yale Fall 2017
